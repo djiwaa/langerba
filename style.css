@@ -1,0 +1,166 @@
+/************************* section 1 *************************/
+.bg {
+  background-color: rgb(45, 59, 73);
+}
+#langerba {
+  font-family: "Merriweather", serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 100px;
+}
+
+#phone {
+  font-family: "Merriweather", serif;
+  margin-left: 120px;
+}
+#idNav ul li {
+  margin-right: 20px;
+}
+/************************* section 2 *************************/
+.menu {
+  background-color: rgb(45, 59, 73);
+  height: 100vh;
+  width: auto;
+  text-align: center;
+}
+
+.text1 {
+  font-family: "Merriweather", serif;
+  color: white;
+  padding-top: 130px;
+}
+.plus {
+  background-color: orange;
+  border-radius: 100px;
+  padding: 10px 50px;
+  margin-top: 10px;
+}
+.globeA {
+  margin-top: 20px;
+}
+/************************* section 3 *************************/
+.Sec3 {
+  background-color: rgb(229, 236, 238);
+}
+#th {
+  padding-top: 50px;
+}
+.plus2 {
+  background-color: orange;
+  border-radius: 100px;
+  padding: 10px 50px;
+  margin-top: 5px;
+}
+/************************* section 4 *************************/
+.cc {
+  margin-top: 20px;
+  padding: 5px;
+}
+.sec4text {
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+.cb {
+  margin-top: 50px;
+}
+i {
+  color: orangered;
+  font-size: 60px;
+}
+#font {
+  font-family: "Merriweather", serif;
+}
+/************************* section 5 *************************/
+.Sec5 {
+  background-color: rgb(219, 228, 218);
+}
+#partie4 {
+  background-color: rgb(219, 228, 218);
+}
+.trad {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+#textP4 {
+  padding-left: 70px;
+  padding-top: 100px;
+}
+#P4text1 #P4text2 {
+  text-align: left;
+  font-size: 500px;
+}
+#P4text1 {
+  font-family: "Merriweather", serif;
+}
+#P4text2 {
+  font-family: "Merriweather", serif;
+}
+/************************* section 6 *************************/
+.partie5 {
+  background-color: rgb(14, 14, 75);
+}
+.box {
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  color: white;
+}
+input {
+  justify-content: center;
+  border-radius: 100px;
+}
+.input1 {
+  background-color: white;
+  width: 300px;
+}
+.input2 {
+  background-color: orangered;
+  width: 150px;
+}
+/************************* section 7 *************************/
+.Sec7 {
+  background-color: orangered;
+}
+.Sec7text1 {
+  padding-top: 50px;
+  text-align: center;
+  color: #ffff;
+  background-color: orangered;
+}
+.textCarousel {
+  font-family: "Merriweather", serif;
+  padding-top: 30px;
+  padding-bottom: 90px;
+  text-align: center;
+  color: #fff;
+}
+#apostrophe {
+  color: #fff;
+}
+/************************* section 8 *************************/
+.bF {
+  background-color: rgb(22, 27, 32);
+}
+#langerba {
+  font-family: "Merriweather", serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 130px;
+}
+#phoneFoot {
+  font-family: "Merriweather", serif;
+  margin-left: 150px;
+}
+#idFoot ul li {
+  margin-right: 20px;
+}
+hr {
+  color: #fff;
+}
+.bgFoot {
+  background-color: rgb(22, 27, 32);
+}
+.copyright {
+  padding-bottom: 20px;
+  color: rgb(122, 122, 122);
+}
